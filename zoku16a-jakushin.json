@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/jakushin",
  "yomi": "じゃくしんほうししゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "鎌倉中期",
+  "author": "寂身",
+  "desc": "鎌倉中期の僧寂身の家集。白居易の詩句を題にした建保6年の百首など、句題の詠を多く収める。"
+ },
  "editions": [
   {
    "pid": "936505",
